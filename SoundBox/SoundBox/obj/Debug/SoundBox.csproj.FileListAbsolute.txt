@@ -1,0 +1,10 @@
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\bin\Debug\SoundBox.exe.config
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\bin\Debug\SoundBox.exe
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\bin\Debug\SoundBox.pdb
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\obj\Debug\SoundBox.csprojAssemblyReference.cache
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\obj\Debug\SoundBox.Form1.resources
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\obj\Debug\SoundBox.Properties.Resources.resources
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\obj\Debug\SoundBox.csproj.GenerateResource.cache
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\obj\Debug\SoundBox.csproj.CoreCompileInputs.cache
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\obj\Debug\SoundBox.exe
+X:\Bill Nguyen\C#\in-progress\SoundBox\SoundBox\obj\Debug\SoundBox.pdb
